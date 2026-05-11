@@ -89,10 +89,13 @@ plt.show()
 ### OUTPUT:
 ### MONTHLY AVERAGE USAGE:
 <img width="735" height="263" alt="image" src="https://github.com/user-attachments/assets/b358e621-7e8d-44de-8895-b117f32fbdd5" />
+
 ### TREND PLOT:
 <img width="748" height="223" alt="image" src="https://github.com/user-attachments/assets/5c6e4e28-e899-4a1b-9f69-746fcd82c502" />
+
 ### SESONALITY PLOT:
 <img width="735" height="221" alt="image" src="https://github.com/user-attachments/assets/135df5ee-673a-409b-8036-757e441e483e" />
+
 ### RESIDUAL PLOT:
 <img width="723" height="232" alt="image" src="https://github.com/user-attachments/assets/53f0243e-a98a-4e0e-81a1-1b95171f728c" />
 
